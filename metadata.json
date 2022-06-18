@@ -1,0 +1,12 @@
+{
+  "721": {
+    "bd4cedaa9781a1c452bc4631e27e044a4969fffb6054f1a16a6cbcdf": {
+      "NFTT": {
+        "description": "This is my first NFT thanks to the Cardano foundation",
+        "name": "NFT Token",
+        "id": "1",
+        "image": "ipfs://currentlynohash"
+      }
+    }
+  }
+}
